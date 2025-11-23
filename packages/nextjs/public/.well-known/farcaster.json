@@ -1,0 +1,28 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "baseBuilder": {
+    "ownerAddress": "0x"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Scaffold-ETH",
+    "homeUrl": "https://scaffoldeth.io",
+    "iconUrl": "https://se2-miniapp.vercel.app/icon.png",
+    "splashImageUrl": "https://se2-miniapp.vercel.app/splash.png",
+    "splashBackgroundColor": "#ffffff",
+    "subtitle": "Build dApps on Ethereum",
+    "description": "An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.",
+    "primaryCategory": "education",
+    "tags": ["scaffold", "framework", "toolkit"],
+    "heroImageUrl": "https://se2-miniapp.vercel.app/opengraph-image.png",
+    "tagline": "Build dApps on Ethereum",
+    "ogTitle": "Scaffold-ETH 2",
+    "ogDescription": "An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.",
+    "ogImageUrl": "https://se2-miniapp.vercel.app/opengraph-image.png",
+    "noindex": true
+  }
+}
