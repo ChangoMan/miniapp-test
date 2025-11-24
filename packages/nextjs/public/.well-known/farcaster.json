@@ -15,13 +15,13 @@
     "splashImageUrl": "https://se2-miniapp.vercel.app/splash.png",
     "splashBackgroundColor": "#ffffff",
     "subtitle": "Build dApps on Ethereum",
-    "description": "An open-source toolkit for building decentralized applications (dapps) on the Ethereum blockchain.",
+    "description": "An open-source toolkit for building decentralized applications on the Ethereum blockchain.",
     "primaryCategory": "education",
     "tags": ["scaffold", "framework", "toolkit"],
     "heroImageUrl": "https://se2-miniapp.vercel.app/opengraph-image.png",
     "tagline": "Build dApps on Ethereum",
     "ogTitle": "Scaffold-ETH 2",
-    "ogDescription": "An open-source toolkit for building decentralized applications (dapps) on the Ethereum blockchain.",
+    "ogDescription": "An open-source toolkit for building decentralized applications on the Ethereum blockchain.",
     "ogImageUrl": "https://se2-miniapp.vercel.app/opengraph-image.png",
     "noindex": true
   }
